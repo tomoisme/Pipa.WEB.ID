@@ -1,0 +1,29 @@
+{{ partial "header" . }}
+
+<div class="container">
+    <div class="col-md-12 col-sm-12">
+        <h3>{{ .Title }}</h3>
+        <ul>
+            {{ range .Paginator.Pages }}
+            <li>
+                <a href="{{.Permalink}}"> {{.Title}}</a>
+                (<small>{{.Date.Format "2 Jan 2006"}}</small>)
+            </li>
+            {{ end }}
+        </ul>
+
+        {{ partial "pagination" . }}
+
+        <hr>
+
+        <p>
+            Tagar:
+            {{ $siteurl := .Site.BaseURL }}
+            {{ range .Params.tag }}
+            #<a href="{{ $siteurl }}tagar/{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+        </p>
+    </div>
+</div>
+
+{{ partial "footer" . }}
