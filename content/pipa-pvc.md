@@ -47,9 +47,17 @@ Merupakan pipa yang terbuat dari bahan Poly Vinyl Chloride (PVC). Sifat pipa PVC
 
 Berikut ini adalah beberapa standard pipa PVC yang banyak dijual di pasar bahan bangunan di Indonesia
 
-Pipa PVC AW/D
+**Pipa PVC AW/D**
 
-Pipa PVC JIS
+Pipa PVC AW dan D mengadopsi standard yang dibuat sendiri oleh pabrik. Warna pipa PVC AW/D biasanya putih tapi beberapa produsen pipa PVC menyanggupi pembuatan pipa PVC AW/D dengan warna abu-abu dengan jumlah minimal pemesanan tertentu. Panjang pipa AW/D adalah 4 meter.
 
-Pipa PVC SNI
+{{< partial "data/tabel-ketebalan-pipa-aw-d" >}}
+
+**Pipa PVC JIS**
+
+Pipa PVC JIS dibuat berdasarkan Japan Industrial Standard untuk kebutuhan perpipaan bertekanan tinggi. Warna pipa ini biasanya abu-abu dengan panjang pipa 4 meter per batangnya. Biasanya pipa PVC JIS dipakai untuk pipa sumur bor dalam, jalur pipa kebutuhan industri dan lain-lain.
+
+{{< partial "data/tabel-ketebalan-pipa-jis" >}}
+
+**Pipa PVC SNI**
 
