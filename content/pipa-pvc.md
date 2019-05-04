@@ -61,3 +61,4 @@ Pipa PVC JIS dibuat berdasarkan Japan Industrial Standard untuk kebutuhan perpip
 
 **Pipa PVC SNI**
 
+Pipa PVC SNI dibuat berdasarkan Standar Nasional Indonesia dan biasanya digunakan untuk pembuatan jalur distribusi air pada proyek PDAM. Warna pipa PVC SNI ada yang putih, abu-abu dan ada juga yang oranye (pipa SNI untuk air limbah). Panjang pipa PVC SNI 6 meter. Pipa PVC SNI memiliki dua jenis sistem penyambungan, yakni sistem penyambungan Solvent Cement Joint (SCJ) dan Rubber Ring Joint (RRJ). Untuk pipa PVC SNI diameter kecil, biasanya menggunakan sistem penyambungan SCJ sedangkan pipa PVC SNI diameter besar biasanya menggunakan sistem penyambungan RRJ atau Z-Joint.
