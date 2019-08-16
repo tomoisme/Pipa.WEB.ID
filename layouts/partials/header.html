@@ -8,13 +8,13 @@
 	<title>{{ .Title }}</title>
 
 	<!-- Bootstrap core CSS -->
-	<link href="{{ .Site.BaseURL }}css/bootstrap.min.css" rel="stylesheet">
+	<link href="{{ .Site.BaseURL }}/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body>
 	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
 		<div class="container">
-			<a class="navbar-brand" href="{{ .Site.BaseURL }}">Pipa.WEB.ID</a>
+			<a class="navbar-brand" href="{{ .Site.BaseURL }}/">Pipa.WEB.ID</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
 				aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -23,15 +23,15 @@
 			<div class="collapse navbar-collapse" id="navbarsExampleDefault">
 				<ul class="navbar-nav mr-auto">
 					<li>
-						<a class="nav-link" href="{{ .Site.BaseURL }}pipa-pvc">
+						<a class="nav-link" href="{{ .Site.BaseURL }}/pipa-pvc">
 							Pipa PVC
 						</a>
 					</li>
 					<li>
-						<a class="nav-link" href="#">Pipa HDPE</a>
+						<a class="nav-link" href="{{ .Site.BaseURL }}/pipa-hdpe">Pipa HDPE</a>
 					</li>
 					<li>
-						<a class="nav-link" href="#">Pipa PPR</a>
+						<a class="nav-link" href="{{ .Site.BaseURL }}/pipa-ppr">Pipa PPR</a>
 					</li>
 				</ul>
 			</div>
