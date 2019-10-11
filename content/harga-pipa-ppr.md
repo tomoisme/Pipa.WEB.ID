@@ -2,7 +2,7 @@
 title: "Harga Pipa PPR | Rucika Green (Wavin Tigris), Akan SD, Dizayn, Toro, Dll"
 date: 2019-03-16T16:33:15+07:00
 draft: false
-layout: "single"
+layout: "single-center"
 tag:
 - harga pipa ppr
 - harga pipa ppr rucika green
@@ -36,15 +36,15 @@ tag:
 
 ---
 
-kontak button here
+{{<kontak-button-udai>}}
 
 ---
 
-Pipa PPR PN 10
+{{<harga-pipa-ppr/rucika-pn-10>}}
 
-Pipa PPR PN 16
+{{<harga-pipa-ppr/rucika-pn-16>}}
 
-Pipa PPR PN 20
+{{<harga-pipa-ppr/rucika-pn-20>}}
 
 
 ---
@@ -53,15 +53,15 @@ Pipa PPR PN 20
 
 ---
 
-kontak button here
+{{<kontak-button-udai>}}
 
 ---
 
-Pipa PPR PN 10
+{{<harga-pipa-ppr/akan-sd-pn-10>}}
 
-Pipa PPR PN 16
+{{<harga-pipa-ppr/akan-sd-pn-16>}}
 
-Pipa PPR PN 20
+{{<harga-pipa-ppr/akan-sd-pn-20>}}
 
 
 ---
@@ -70,24 +70,7 @@ Pipa PPR PN 20
 
 ---
 
-kontak button here
-
----
-
-Pipa PPR PN 10
-
-Pipa PPR PN 16
-
-Pipa PPR PN 20
-
-
----
-
-### Harga Pipa PPR Toro
-
----
-
-kontak button here
+{{<kontak-button-udai>}}
 
 ---
 
@@ -104,12 +87,12 @@ Pipa PPR PN 20
 
 ---
 
-kontak button here
+{{<kontak-button-udai>}}
 
 ---
 
-Pipa PPR PN 10
+{{<harga-pipa-ppr/asialing-pn-10>}}
 
-Pipa PPR PN 16
+{{<harga-pipa-ppr/asialing-pn-16>}}
 
-Pipa PPR PN 20
+{{<harga-pipa-ppr/asialing-pn-20>}}
